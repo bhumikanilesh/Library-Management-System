@@ -1,5 +1,5 @@
 # Library-Management-System
-# Library Management System
+
 
 This is a simple **Library Management System** project in Java, built using **OOP concepts** like **abstraction**, **inheritance**, **interfaces**, **exception handling**, and the **Singleton design pattern**.  
 It manages books and users (students and librarians), allowing functionalities such as **borrowing, returning, adding, removing**, and **searching for books**.
